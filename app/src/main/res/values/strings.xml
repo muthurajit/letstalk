@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LetsTalk</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cannot_speak">CannotSpeakActivity</string>
+    <string name="title_activity_cannot_hear">CannotHearActivity</string>
+    <string name="say_it">say it</string>
+    <string name="cannot_hear_instruction">Give the phone to the other person. Ask them to tap the mic to record</string>
+    <string name="i_cannot_speak">I cannot speak</string>
+    <string name="i_cannot_hear">I cannot hear</string>
+    <string name="you_have_not_entered_any_text">You have not entered any text!</string>
+</resources>
